@@ -9,4 +9,6 @@ My cloud hosted recipe book/blog site
 - [] UX/Front end development
 
 ## Navigation
-(Database design for Recipe app)[docs/design/recipeDbDesign.md]
+[Database design for Recipe app](docs/design/recipeDbDesign.md)
+
+[Infrastructure as code selection and set up](terraform/README.md)
